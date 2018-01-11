@@ -1,0 +1,176 @@
+{
+    "cellphones": [
+        {
+            "id": 1,
+            "companyName": "Apple",
+            "img": "./img/Audi.png",
+            "slogan": "'Think Differnt'",
+            "models": [
+                {
+                    "id": 101,
+                    "modelName": "Iphone X",
+                    "img": "./img/iphoneX.jpg",
+                    "details": [
+                        {
+                            "Display": " 5.8-inch Super AMOLED capacitive touchscreen 16M colors",
+                            "BatteryLife":"Non-removable Li-Ion 2716 mAh battery (10.35 Wh)",
+                            "Version":"A1865",
+                            "price": "$1319",
+                            "year":"2017"
+
+                        }
+
+                        ]
+
+                },
+                {
+                    "id": 102,
+                    "modelName": "Iphone 8 Plus",
+                    "img": "./img/audi-r8.jpg",
+                    "details": [
+                        {
+                            "Display": " 5.5-inch LED-backlit IPS LCD, capacitive touchscreen, 16M colors",
+                            "BatteryLife":"Non-removable Li-Ion 2691 mAh battery (10.28 Wh)",
+                            "Version":"A1864",
+                            "price": "$1059",
+                            "year":"2017"
+
+                        }
+
+                        ]
+                },
+                   {
+                    "id": 103,
+                    "modelName": "Iphone 8",
+                    "img": "./img/audi-r8.jpg",
+                    "details": [
+                        {
+                            "Display": " 4.7-inch LED-backlit IPS LCD, capacitive touchscreen, 16M colors",
+                            "BatteryLife":"Non-removable Li-Ion 1821 mAh battery (6.96 Wh)",
+                            "Version":"A1863",
+                            "price": "$1059",
+                            "year":"2017"
+
+                        }
+
+                        ]
+
+                   }
+
+  ]
+        },
+       
+        {
+            "id": 2,
+            "companyName": "Samsung",
+            "img": "./img/Jaguar.png",
+            "slogan": "'Pretty Awesome'",
+            "models": [
+                {
+                    "id": 105,
+                    "modelName": "Note8",
+                    "img": "./img/F-type.jpg",
+                    "details": [
+                        {
+                           "Display": " 6.3-inch Super AMOLED capacitive touchscreen, 16M colors",
+                            "BatteryLife":"Non-removable Li-Ion 3300 mAh battery",
+                            "Versions":"N950W",
+                            "price": "$1300",
+                            "year":"2017"
+                        }
+
+                        ]
+                },
+                {
+                    "id": 106,
+                    "modelName": "Note8",
+                    "img": "./img/F-type.jpg",
+                    "details": [
+                        {
+                    "Display": " 6.2-inch Super AMOLED capacitive touchscreen, 16M colors",
+                            "Battery life":"Non-removable Li-Ion 3500 mAh battery",
+                            "Versions": "G955W",
+                            "price": "$1115",
+                            "year":"2017"
+
+                        }
+
+                        ]
+                },   
+                {
+                    "id": 107,
+                    "modelName": "S8",
+                    "img": "./img/XF1.png",
+                    "details": [
+                        {
+                        "Display": " 5.8-inch Super AMOLED capacitive touchscreen, 16M colors",
+                            "BatteryLife":"Non-removable Li-Ion 3000 mAh battery",
+                            "Versions": "G950W",
+                            "price": "$1035",
+                            "year":"2017"
+                        }
+
+                         ]
+                
+        },  
+{
+            "id": 3,
+            "companyName": "Google",
+            "img": "./img/BMW.png",
+            "slogan": "'The Ultimate Driving Machine'",
+            "models": [
+                {
+                    "id": 108,
+                    "modelName": "Pixel2",
+                    "img": "./img/BMWX5.jpg",
+                    "details": [
+                        {
+                            "Display": " 5.0-inch P-OLED capacitive touchscreen, 16M colors",
+                            "BatteryLife":"Non-removable Li-Ion 3520 mAh battery",
+                            "price": "$899",
+                            "year":"2017"
+                        }
+
+                        ]
+                },
+                {
+                    "id": 109,
+                    "modelName": "Pixel2 XL",
+                    "img": "./img/BMW7.jpg",
+                    "details": [
+                        {
+                              "Display": " 6.0-inch Super AMOLED capacitive touchscreen, 16M colors",
+                            "BatteryLife":"Non-removable Li-Ion 2700 mAh battery",
+                            "price": "$1159",
+                            "year":"2017"
+
+                        }
+
+                        ]
+                }
+  ]
+        },
+        {
+            "id": 4,
+            "companyName": "Blackberry",
+            "img": "./img/Mercedes-Benz.png",
+            "slogan": "'The best or nothing'",
+            "models": [
+                {
+                    "id": 113,
+                    "modelName": "Blackberry Motion",
+                    "img": "./img/GLA.PNG",
+                    "details": [
+                        {
+                              "Display": " 5.5-inch IPS LCD capacitive touchscreen, 16M colors",
+                            "BatteryLife":"Non-removable Li-Ion 4000 mAh battery",
+                            "price": "$600",
+                            "year":"2017"
+                        }
+
+                        ]
+                }
+  ]
+        }
+]
+}

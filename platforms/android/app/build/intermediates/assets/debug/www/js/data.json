@@ -1,0 +1,55 @@
+{                                               
+    "drinks": [
+        {
+            "id": 1,
+            "name": "Coca-Cola",
+            "type": "Soft Drink",
+            "origin": "United States",
+            "ingredients": [
+    "Carbonated water","Sugar","Caffeine","Phosphoric acid","Natu   bvcral flavorings"
+
+  ],
+            "website": "www.coca-colacompany.com"
+        "img": "./img/Cola.png"
+        },
+        {
+            "id": 2,
+            "name": "Pepsi",
+            "type": "Soft Drink",
+            "origin": "United States",
+            "ingredients": [
+    "Water", "White sugar", "Fructose", "Carbonated gas", "Citric acid", "Phosphoric","Acid", "Yogurt flavor"
+
+  ],
+            "website": "www.pepsi.com"
+        },
+        {
+            "id": 3,
+            "name": "Thumbs up",
+            "type": "Soft Drink",
+            "origin": "India",
+            "ingredients": [
+   "carbonated water", "sugar", "acidity regulator (E338)", "caffeine", "natural colour and added flavours"
+
+  ],
+            "website": "http://www.coca-colaindia.com/thums-up-brand"
+        },
+        {
+            "id": 4,
+            "name": "Singani",
+            "type": "Cocktail",
+            "origin": "Bolivia",
+            "ingredients": ["white muscatel grapes"
+            "website": "www.singani63.com/"
+        },
+        {
+            "id": 5,
+            "name": "Iced Capp",
+            "type": "Coffee",
+            "origin": "Canada",
+            "ingredients": ["Signature base","Sugar","Cream","Milk","Frozen coffee"],
+            "website": "www.timhortons.com/ca/en/menu/iced-capp.php"
+        },
+        
+ ]
+}
